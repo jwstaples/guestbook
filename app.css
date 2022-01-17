@@ -1,0 +1,23 @@
+body {
+  background-image: url('beach.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: Gotham,"Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 20px;
+  box-sizing: border-box;
+  background-color: #ddd;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #2C698D;
+  border-radius: .3rem;
+}
+.heading {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
